@@ -1,0 +1,23 @@
+{
+  "name": "myvueapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-inputs": "^27.1.50",
+    "@syncfusion/ej2-vue-filemanager": "^27.1.52",
+    "@syncfusion/ej2-vue-layouts": "^26.2.10",
+    "@syncfusion/ej2-vue-lists": "^26.2.14",
+    "@syncfusion/ej2-vue-navigations": "^26.2.11",
+    "vue": "^3.4.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "vite": "^5.4.1"
+  }
+}
