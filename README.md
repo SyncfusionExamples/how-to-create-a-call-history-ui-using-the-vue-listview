@@ -19,7 +19,7 @@ Demo: [https://ej2.syncfusion.com/vue/demos/#/fluent2/listview/default.html](htt
 Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ), [Vue](https://cli.vuejs.org/guide/installation.html), and  [NodeJS](https://nodejs.org/en/download) or a later version on your machine before starting to work on this project.
 
 ## How to run this application
-1. To run this application, you must first clone the repository 
+1. To run this application, you must first clone the
 `how-to-create-a-call-history-ui-using-the-vue-listview` repository and then open it in Visual Studio Code.
 2. Now, build and run your project using the below commands.
 
